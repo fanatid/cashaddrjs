@@ -5,7 +5,7 @@
  * file LICENSE or http://www.opensource.org/licenses/mit-license.php.
  */
 
-import lint from 'mocha-eslint';
+const lint = require('mocha-eslint');
 
 const paths = [
   'src/**/*.js',
