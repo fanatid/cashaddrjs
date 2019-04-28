@@ -60,8 +60,5 @@
     "shelljs": "0.8.3",
     "uglify-js": "3.4.9",
     "watchify": "^3.11.1"
-  },
-  "dependencies": {
-    "big-integer": "1.6.36"
   }
 }
